@@ -34,7 +34,7 @@ const App = () => {
     setNewNumber(e.target.value)
   }
 
-  //TODO
+  //TODO alert if duplicate name and create a search imput that filters
   // const handleDuplicateName = (e) => {
   //   console.log(e.target.value);
   // }
